@@ -1,6 +1,8 @@
 # autohentaiopener
 Automatically opens nhentai links from a .txt file.
 
+NOTE: Python 3 or higher is required to run. Install Python from https://www.python.org/downloads/
+
 # How to run:
 1. Open Terminal/Command Prompt
 2. CD into the directory you downloaded it in (Example: ```cd /Users/USERNAME/downloads```
